@@ -50,14 +50,12 @@ about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Analytical and creative professional with experience in research, SEO content, writing, customer service, and policy analysis. Adept at clear communication, problem-solving, and collaborating with teams to produce high-quality work. Interested in opportunities where I can apply my skills to make an impact.
 
-# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Published blog on Advancing Health and Well-Being in Brazil according to SDG 3 targets
+        title: Published article
         link: https://borgenproject.org/sdg-3-in-brazil/
         # link_text: Project Website
         additional_links:
