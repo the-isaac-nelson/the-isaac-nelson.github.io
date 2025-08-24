@@ -83,6 +83,16 @@ content:
           Political advocacy, fundraising, and journalism
         description: | # this will include new lines to allow paragraphs
             Researched and authored weekly articles on global poverty, international development, and U.S. foreign policy, ensuring accuracy through in-depth analysis and fact-checking. Optimized content for SEO, managed editorial submissions, and supported advocacy efforts through public awareness campaigns and congressional outreach. Successfully raised funds for organizational initiatives.
+     
+      - layout: left
+        title: Brotman Baty Institute
+        link: brotmanbaty.org/
+        sub_title:  Participant Communications
+        caption: September 2022 - April 2024
+        quote: >
+          Data entry and customer service
+        description: | # this will include new lines to allow paragraphs
+          Managed and analyzed research study data using Excel and Google Sheets, coordinated logistics between participants and delivery drivers, produced high-quality technical reports on customer solutions and operations, and provided professional communication support to participants, addressing inquiries efficiently throughout the study’s final phase.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
