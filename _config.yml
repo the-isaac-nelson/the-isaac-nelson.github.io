@@ -96,7 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at the University of Washington, I developed key skills that continue to shape my career, including teamwork, analytical thinking, and managing projects under tight deadlines. My Political Science studies—ranging from Political Theory and International Relations to Human Rights Law and Political Economy, as well as technical courses in Computer Programming, Database Systems, and Informatics—gave me a strong interdisciplinary foundation. 
 
-         I thoroughly enjoyed my time at university and gained valuable insights into maintaining a healthy work-life balance while pursuing rigorous academic challenges.
+           I thoroughly enjoyed my time at university and gained valuable insights into maintaining a healthy work-life balance while pursuing rigorous academic challenges.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
