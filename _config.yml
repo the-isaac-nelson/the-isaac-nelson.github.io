@@ -57,8 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Published blog on Advancing Health and Well-Being in Brazil according to SDG 3 targets
+        link: https://borgenproject.org/sdg-3-in-brazil/
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,9 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          My first published article
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Wrote an SEO-optimized article for The Borgen Project highlighting Brazil’s progress toward Sustainable Development Goal 3 (health and well-being). Focused on universal health coverage, oral health programs, rural doctor initiatives, and community-led Amazon outreach. Emphasized measurable outcomes and policy impacts while making complex health data accessible to a broad audience.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
