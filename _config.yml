@@ -70,6 +70,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           Wrote an SEO-optimized article for The Borgen Project highlighting Brazil’s progress toward Sustainable Development Goal 3 (health and well-being). Focused on universal health coverage, oral health programs, rural doctor initiatives, and community-led Amazon outreach. Emphasized measurable outcomes and policy impacts while making complex health data accessible to a broad audience.
 
+      - layout: top-middle
+        title: Published article
+        link: https://borgenproject.org/cocoa-blockchain-in-ghana/
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Published article on cocoa blockchain in Ghana
+        description: | # this will include new lines to allow paragraphs
+          Authored an SEO-optimized article for The Borgen Project on Ghana’s adoption of blockchain technology in its cocoa industry. The piece highlighted how digital ledgers enhance supply chain transparency, ensure fair farmer compensation, and strengthen ethical sourcing for global markets. It also explored the project’s potential to attract investment and promote sustainable trade.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
