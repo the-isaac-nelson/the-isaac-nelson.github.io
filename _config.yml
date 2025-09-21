@@ -86,6 +86,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           Authored an SEO-optimized article for The Borgen Project on Ghana’s adoption of blockchain technology in its cocoa industry. The piece highlighted how digital ledgers enhance supply chain transparency, ensure fair farmer compensation, and strengthen ethical sourcing for global markets. It also explored the project’s potential to attract investment and promote sustainable trade.
 
+      - layout: top-middle
+        title: Published article
+        link: https://borgenproject.org/us-aid-to-nigeria/
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Published article on US Aid to Nigeria: $32.5 Million To Fight Hunger
+        description: | # this will include new lines to allow paragraphs
+          Authored an SEO-optimized article for The Borgen Project on the U.S.’s $32.5 million humanitarian aid to Nigeria. The piece highlighted how the funding will provide food and nutritional support to over 764,000 people, strengthen local markets, and support displaced populations in conflict-affected regions. It also explored the role of the World Food Programme in delivering both immediate relief and long-term solutions to Nigeria’s severe hunger crisis.
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
