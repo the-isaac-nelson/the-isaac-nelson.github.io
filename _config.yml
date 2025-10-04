@@ -69,13 +69,6 @@ content:
         title: Published article
         link: https://borgenproject.org/sdg-3-in-brazil/
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           My first published article
         description: | # this will include new lines to allow paragraphs
