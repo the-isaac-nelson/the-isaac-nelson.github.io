@@ -53,16 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-
-    - title: Test Collapsible Section
-    layout: text
-    content: |
-      <details>...</details>
-    
-    content:  # ← this second 'content' key overwrites the first one
-      - layout: top-middle
-        ...
-    
     content:
       - layout: top-middle
         title: Published article
