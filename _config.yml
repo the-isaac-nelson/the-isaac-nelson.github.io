@@ -50,9 +50,8 @@ about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Analytical and creative professional with experience in research, SEO content, writing, customer service, and policy analysis. Adept at clear communication, problem-solving, and collaborating with teams to produce high-quality work. Interested in opportunities where I can apply my skills to make an impact.
 
-content:
+- title: Projects # Title for the section
     - layout: text
-    title: Projects
     content: |
       <style>
       details summary {
