@@ -54,24 +54,14 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
 
-  - title: Test Collapsible Section
+    - title: Test Collapsible Section
     layout: text
     content: |
-      <details>
-        <summary>Click to expand Test Projects</summary>
-
-        <h3>Published article: Brazil’s Progress Toward SDG 3</h3>
-        <a href="https://borgenproject.org/sdg-3-in-brazil/">Read article</a>
-        <p>My first published article</p>
-        <p>Wrote an SEO-optimized article for The Borgen Project highlighting Brazil’s progress toward Sustainable Development Goal 3 (health and well-being). Focused on universal health coverage, oral health programs, rural doctor initiatives, and community-led Amazon outreach. Emphasized measurable outcomes and policy impacts while making complex health data accessible to a broad audience.</p>
-
-        <h3>Published article: Cocoa Blockchain in Ghana</h3>
-        <a href="https://borgenproject.org/cocoa-blockchain-in-ghana/">Read article</a>
-        <p>Published article on cocoa blockchain in Ghana</p>
-        <p>Authored an SEO-optimized article on Ghana’s adoption of blockchain in cocoa supply chain transparency...</p>
-
-        <!-- Add other projects here -->
-      </details>
+      <details>...</details>
+    
+    content:  # ← this second 'content' key overwrites the first one
+      - layout: top-middle
+        ...
     
     content:
       - layout: top-middle
