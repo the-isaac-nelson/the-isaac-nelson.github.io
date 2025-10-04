@@ -101,6 +101,25 @@ content:
           Published article on US Aid to Nigeria: $32.5 Million To Fight Hunger
         description: | # this will include new lines to allow paragraphs
           Authored an SEO-optimized article for The Borgen Project on the U.S.’s $32.5 million humanitarian aid to Nigeria. The piece highlighted how the funding will provide food and nutritional support to over 764,000 people, strengthen local markets, and support displaced populations in conflict-affected regions. It also explored the role of the World Food Programme in delivering both immediate relief and long-term solutions to Nigeria’s severe hunger crisis.
+
+      - layout: top-middle
+        title: HRIS System Project – Azure Agile Management
+        link: https://dev.azure.com/isaacjn/Best%20HR%20System/_wiki/wikis/Best-HR-System.wiki/33/Executive-Summary
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://dev.azure.com/isaacjn/
+        quote: >
+          Designed a centralized Human Resource Information System (HRIS) to enhance workplace equity and transparency.
+        description: | # this will include new lines to allow paragraphs
+          Collaborated in a team environment to research, design, and document a full-scale HRIS solution for Global Retail United (GRU) using **Azure DevOps** and **Agile project management** principles.  
+          
+          Developed the project vision, scope, and iterative sprints in Azure Boards, emphasizing system scalability, usability, and legal compliance. Created data flow and workflow diagrams, wireframes, and user stories aligning with stakeholder requirements.  
+          
+          The proposed HRIS integrates real-time analytics for pay equity, performance, and benefits management, aiming to streamline HR operations and improve transparency across the organization.
+          
+          **Tools & Skills:** Azure DevOps, Agile/Scrum, Systems Analysis & Design, Project Backlog Creation, Process Modeling, Team Collaboration, Wireframing, and Executive Presentation.
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
