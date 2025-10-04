@@ -51,39 +51,42 @@ about_content: | # this will include new lines to allow paragraphs
   Analytical and creative professional with experience in research, SEO content, writing, customer service, and policy analysis. Adept at clear communication, problem-solving, and collaborating with teams to produce high-quality work. Interested in opportunities where I can apply my skills to make an impact.
 
 content:
-  - layout: text
+    - layout: text
+    title: Projects
     content: |
-      <details>
-        <summary>📰 Published Articles</summary>
+      <style>
+      details summary {
+        font-size: 1.2rem;
+        font-weight: 600;
+        cursor: pointer;
+        margin-bottom: 0.5rem;
+      }
+      details p {
+        font-size: 1rem !important;
+        margin-left: 1rem;
+      }
+      </style>
 
-        <br>
+      <details open>
+      <summary>📰 <strong>Published Articles</strong></summary>
 
-        **Brazil’s Progress Toward SDG 3**  
-        [Read article](https://borgenproject.org/sdg-3-in-brazil/)  
-        Wrote an SEO-optimized article highlighting Brazil’s progress toward Sustainable Development Goal 3 (health and well-being).  
+      **[Brazil’s Progress Toward SDG 3](https://borgenproject.org/sdg-3-in-brazil/)**  
+      Wrote an SEO-optimized article highlighting Brazil’s progress toward Sustainable Development Goal 3 (health and well-being).  
 
-        <br>
+      **[Cocoa Blockchain in Ghana](https://borgenproject.org/cocoa-blockchain-in-ghana/)**  
+      Authored an article on Ghana’s blockchain adoption improving cocoa supply chain transparency.  
 
-        **Cocoa Blockchain in Ghana**  
-        [Read article](https://borgenproject.org/cocoa-blockchain-in-ghana/)  
-        Authored an article on Ghana’s blockchain adoption improving cocoa supply chain transparency.
-
-        <br>
-
-        **U.S. Aid to Nigeria: $32.5 Million to Fight Hunger**  
-        [Read article](https://borgenproject.org/us-aid-to-nigeria/)  
-        Covered U.S. humanitarian support to Nigeria and the World Food Programme’s role in long-term food security.
+      **[U.S. Aid to Nigeria: $32.5 Million to Fight Hunger](https://borgenproject.org/us-aid-to-nigeria/)**  
+      Covered U.S. humanitarian support to Nigeria and the World Food Programme’s role in long-term food security.  
 
       </details>
 
       <details>
-        <summary>📊 Project Management</summary>
+      <summary>📊 <strong>Project Management</strong></summary>
 
-        <br>
-
-        **HRIS System Project – Azure Agile Management**  
-        [Executive Summary](https://dev.azure.com/isaacjn/Best%20HR%20System/_wiki/wikis/Best-HR-System.wiki/33/Executive-Summary)  
-        Designed a centralized HRIS for Global Retail United (GRU) using **Azure DevOps** and **Agile principles**, focusing on scalability, workflow automation, and data transparency.
+      **[HRIS System Project – Azure Agile Management](https://dev.azure.com/isaacjn/Best%20HR%20System/_wiki/wikis/Best-HR-System.wiki/33/Executive-Summary)**  
+      Designed a centralized Human Resource Information System (HRIS) for Global Retail United (GRU) using **Azure DevOps** and **Agile principles**, 
+      focusing on scalability, workflow automation, and data transparency. 
 
       </details>
           
