@@ -51,20 +51,24 @@ about_content: | # this will include new lines to allow paragraphs
   Analytical and creative professional with experience in research, SEO content, writing, customer service, and policy analysis. Adept at clear communication, problem-solving, and collaborating with teams to produce high-quality work. Interested in opportunities where I can apply my skills to make an impact.
 
 content:
-
-  - title: Test Collapsible Section
-    layout: collapsible
-    content:
-      - layout: top-middle
-        title: Example Item 1
-        link: https://example.com
-        quote: >
-          This is a test quote inside the collapsible.
-        description: |
-          This is some test content to see if the collapsible feature works properly. You can expand and collapse this section.
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
+
+  - title: Test Collapsible Section
+    layout: text
+    content: |
+      <details>
+        <summary>Click to expand test section</summary>
+        
+        ### Example Item 1
+        [Link to example](https://example.com)
+
+        This is some test content to see if the collapsible feature works properly. You can expand and collapse this section.
+
+        ### Example Item 2
+        Another piece of content inside the collapsible.
+      </details>
+    
     content:
       - layout: top-middle
         title: Published article
